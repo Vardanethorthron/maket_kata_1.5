@@ -114,7 +114,7 @@
   display: inline-block;
   height: 11px;
   width: 8px;
-  background: url('../Images/icon стрелка вниз.svg') 50% 50% no-repeat;
+  background: url('Images/icon стрелка вниз.svg') 50% 50% no-repeat;
 }
 
 .service__more-text--less.service__more-text::before {
